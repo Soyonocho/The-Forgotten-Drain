@@ -17,6 +17,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "VoiceChat",
+			"Enabled": false
 		}
 	]
 }
