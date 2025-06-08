@@ -5,7 +5,7 @@
 *.htm
 
 #忽略Content\_ExtraMaterial
-Content\_ExtraMaterial\*
+Content/_ExtraMaterial/*
 
 # Compiled Object files
 *.slo
