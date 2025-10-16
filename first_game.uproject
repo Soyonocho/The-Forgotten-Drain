@@ -21,6 +21,13 @@
 		{
 			"Name": "VoiceChat",
 			"Enabled": false
+		},
+		{
+			"Name": "SteamSockets",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
