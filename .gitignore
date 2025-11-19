@@ -6,6 +6,9 @@
 
 #忽略Content\_ExtraMaterial
 Content/_ExtraMaterial/*
+#不忽略以下
+!Content/_ExtraMaterial/Medieval_Sewer_Dungeon/Blueprints/
+!Content/_ExtraMaterial/Medieval_Sewer_Dungeon/Blueprints/**
 
 # Compiled Object files
 *.slo
