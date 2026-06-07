@@ -3,9 +3,10 @@
 
 #htm
 *.htm
-#特定檔案
+# 特定檔案
 主線任務.txt
 steam_appid.txt
+
 #忽略Content\_ExtraMaterial
 Content/_ExtraMaterial/*
 #不忽略以下
